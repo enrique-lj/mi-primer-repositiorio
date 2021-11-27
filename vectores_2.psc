@@ -1,4 +1,5 @@
 Algoritmo vectores_2
+	//hola mundo me cago en to dios
 	Definir suma,media,notas Como Real;
 	Definir i,opcion,cuantasnotas Como Entero;//cuantas seria el numero de notas que introduce el usuario
 	Escribir "Programa que muesta la media de las notas y las que superan la media.";
